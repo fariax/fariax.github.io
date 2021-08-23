@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Un bloc de notas para liberar las presiones cerebrales.
 twitter_username: username
 github_username: fariax
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -30,7 +30,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: "America/Santiago" # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Santiago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
