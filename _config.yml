@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 locale: es-CL
 title: El Vertedero Cerebral
+subtitle: cat /dev/brain > /dev/blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Un bloc de notas para liberar las presiones cerebrales.
