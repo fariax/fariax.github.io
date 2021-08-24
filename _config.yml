@@ -23,6 +23,7 @@ twitter_username: the_fariax
 github_username: fariax
 minimal_mistakes_skin: air
 search: true
+breadcrumbs: true
 
 comments:
   provider: "disqus"
