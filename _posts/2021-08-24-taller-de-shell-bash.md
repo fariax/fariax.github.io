@@ -7,7 +7,6 @@ tags:
   - bash
 toc: true
 header:
-  image: /assets/images/taller-shell-bash-image.png
   og_image: /assets/images/taller-shell-bash-image.png
 ---
 
