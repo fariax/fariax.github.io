@@ -24,6 +24,11 @@ github_username: fariax
 minimal_mistakes_skin: air
 search: true
 
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : el-vertedero-cerebral
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
