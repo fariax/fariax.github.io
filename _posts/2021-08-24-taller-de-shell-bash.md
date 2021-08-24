@@ -5,6 +5,7 @@ categories:
 tags:
   - shell
   - bash
+toc: true
 ---
 
 Esta guía la hice para un taller del shell [bash](https://es.wikipedia.org/wiki/Bash) en la [Academia Desafío Latam](https://desafiolatam.com/) para la carrera de [data science](https://desafiolatam.com/data-science/) impartida por esta institución y en la que entre el 2018 y el 2020 tuve la oportunidad de ser alumno, ayudante y profesor, siendo una de las grandes experiencias que he tenido, conociendo excelentes personas que me ayudaron a impulsar mi carrera (y mi vida) desde un punto muerto hacia lo que hoy soy.  Muchas gracias.
