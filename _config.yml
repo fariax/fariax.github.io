@@ -19,15 +19,15 @@ subtitle: cat /dev/brain > /dev/blog
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Un bloc de notas para liberar las presiones cerebrales.
-twitter_username: username
+twitter_username: the_fariax
 github_username: fariax
 minimal_mistakes_skin: air
 search: true
 
 comments:
-  provider               : "disqus"
+  provider: "disqus"
   disqus:
-    shortname            : el-vertedero-cerebral
+    shortname: el-vertedero-cerebral
 
 # Build settings
 markdown: kramdown
@@ -77,9 +77,9 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://fariax.github.io"
-#   - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/the_fariax"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fariax"
@@ -89,9 +89,9 @@ author:
 
 footer:
   links:
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/the_fariax"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fariax"
