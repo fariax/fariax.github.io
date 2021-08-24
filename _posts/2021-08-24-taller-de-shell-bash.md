@@ -19,7 +19,7 @@ Si quieres colaborar en este documento, no dudes en ponerte en contacto conmigo 
 
 Esta guía te sirve si:
 
-1. Tienes Linux instalado en tu PC ya sea nativo, dual boot, inicio con pendrive, una maquina virtual o un contenedor docker.
+- Tienes Linux instalado en tu PC ya sea nativo, dual boot, inicio con pendrive, una maquina virtual o un contenedor docker.
 - Tienes windows 10 instalado, activaste WLS e instalaste cualquier distribución de la tienda.
 - Tienes un ambiente [cygwin](https://www.cygwin.com/) instalado y funcionando.
 - Tienes Anaconda instalado y instalaste los paquetes de msys2: https://anaconda.org/msys2/repo
@@ -48,11 +48,11 @@ tu_usuario@nombre-de-host:~$
 En esta simple linea podemos identificar seis elementos:
 
 1. Tu nombre de usuario: **tu_usuario**.
-- **@**
-- El nombre de host o servidor.
-- **:**
-- El nombre del directorio actual: **~**
-- **$**
+2. **@** (arroba)
+3. El nombre de host o servidor.
+4. **:** (dos puntos)
+5. El nombre del directorio actual: **~**
+6. **$** (signo de peso o signo de dólar)
 
 Los comandos que lancemos irán siempre después del signo `$`
 
@@ -66,7 +66,7 @@ Por defecto, el directorio home también se puede llamar por `~` y este es un no
 
 Ademas, existe el usuario **root** que es el súper usuario de sistema, el es quien tiene todos los permisos.  Su directorio de usuario es `/root` y se encarga de administrar el sistema completo, instalar aplicaciones, dar permisos, etc. **El incluso puede eliminar el sistema completo sin preguntas**.
 
-**ATENCION**: El usuario root se debe usar solo para configuraciones y no como el usuario de acceso permanente al sistema.  
+**ATENCIÓN**: El usuario root se debe usar solo para configuraciones y no como el usuario de acceso permanente al sistema.  
 Quedan advertidos... ;)
 
 ## El entorno de usuario
@@ -376,12 +376,12 @@ La configuración se realiza agregando una linea por tarea que se quiera program
 Que significa lo siguiente: 
 
 1. El minuto de la hora en que debe ser ejecutado.
-- Hora del día en que debe ser ejecutado.
-- Día del mes en que debe ser ejecutado.
-- Mes en que debe ser ejecutado.
-- Día de la semana en que debe ser ejecutado.
-- Usuario que debe ejecutarlo (opcional).
-- Comando que debe ser ejecutado.
+2. Hora del día en que debe ser ejecutado.
+3. Día del mes en que debe ser ejecutado.
+4. Mes en que debe ser ejecutado.
+5. Día de la semana en que debe ser ejecutado.
+6. Usuario que debe ejecutarlo (opcional).
+7. Comando que debe ser ejecutado.
 
 Los primeros cinco parámetros definen cuando debe ser ejecutado y el sexto define quien y el séptimo define que debe ser ejecutado.
 
@@ -415,20 +415,20 @@ Para instalar mcedit debes instalar el paquete "**Midnight Commander**" (llamado
 Para crear un script paso a paso:
 
 1. Abra su editor favorito.
-- Escriba las siguientes lineas:
+2. Escriba las siguientes lineas:
   ```bash
   echo "Numero de lineas en el archivo:"
   wc -l datos.csv
   echo "Numero de caracteres en el archivo:"
   wc -c datos.csv
   ```
-- En la primera linea del archivo escriba `#!/usr/bin/env bash`.
+3. En la primera linea del archivo escriba `#!/usr/bin/env bash`.
   Esta linea se llama shebang y le dice al script que debe ejecutarlo con [bash](https://es.wikipedia.org/wiki/Bash).
   También es valido escribir `#!/bin/bash`
-- Guarde su archivo en el mismo directorio donde esta `datos.csv` y nómbrelo como plazca, por ejemplo: `mi_script.sh`
-- Debe darle permisos de ejecución al archivo para que pueda hacer algo: `chmod +x mi_script.sh`
-- Ejecute el archivo ./mi_script.sh
-- LISTO!!
+4. Guarde su archivo en el mismo directorio donde esta `datos.csv` y nómbrelo como plazca, por ejemplo: `mi_script.sh`
+5. Debe darle permisos de ejecución al archivo para que pueda hacer algo: `chmod +x mi_script.sh`
+6. Ejecute el archivo ./mi_script.sh
+7. LISTO!!
 
 Debería quedar algo como esto:
 
@@ -547,7 +547,7 @@ done
 ```
 
 
-# Otros comandos utiles
+# Otros comandos útiles
 
 `echo "hola mundo!`  
 hola mundo!  
