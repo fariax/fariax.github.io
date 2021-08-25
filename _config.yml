@@ -30,6 +30,9 @@ comments:
   disqus:
     shortname: el-vertedero-cerebral
 
+atom_feed:
+  path: "http://feeds.feedburner.com/el-vertedero-cerebral"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -89,7 +92,7 @@ author:
       url: "https://instagram.com/faricolors"
     - label: "Feed"
       icon: "fas fa-fw fa-rss-square"
-      url: http://feeds.feedburner.com/el-vertedero-cerebral
+      url: "http://feeds.feedburner.com/el-vertedero-cerebral"
     - label: "Suscríbete!!"
       icon: "fas fa-fw fa-envelope"
       url: "https://feedburner.google.com/fb/a/mailverify?uri=el-vertedero-cerebral&amp;loc=es_ES"
