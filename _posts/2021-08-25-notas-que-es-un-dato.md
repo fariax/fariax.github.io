@@ -25,7 +25,7 @@ Según mi experiencia, es una descripción concreta sobre hechos, elementos, suc
 
 Creo que es importante resaltar que un dato por si mismo no representa información, es el procesamiento o interpretación de esos datos lo que nos proporciona información.
 
-![Procesamiento Datos](https://commons.wikimedia.org/wiki/File:ProcesamientoDatos.png#file){: .align-center}
+![Procesamiento Datos](https://upload.wikimedia.org/wikipedia/commons/e/e6/ProcesamientoDatos.svg){: .align-center}
 
 # ¿Como entender los datos?
 
@@ -49,3 +49,9 @@ Básicamente y a grandes rasgos existen dos tipos de datos:
 
   - Ordinales, osea, el orden importa 
   - Nominales, osea, el orden no importa.
+
+# Cierre
+
+Estos post cortos los estoy usando de prueba, para ir depurando el funcionamiento del blog con información en "producción", en los próximos post voy a ir detallando mas estos puntos, asi que estén atentos.
+
+Saludos!
