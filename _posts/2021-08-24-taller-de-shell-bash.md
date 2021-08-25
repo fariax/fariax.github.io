@@ -1,5 +1,5 @@
 ---
-title: "Taller de bash - Guía de iniciación"
+title: "Taller: Shell bash - Guía de iniciación"
 categories:
   - Talleres
 tags:
