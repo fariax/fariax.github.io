@@ -7,7 +7,3 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
-
-subs:
-  - title: Getting Started
-    text: "Prueba <b>prueba</b>"
