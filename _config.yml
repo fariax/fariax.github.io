@@ -87,6 +87,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/faricolors"
+    - label: "RSS"
+      icon: "fas fa-fw fa-rss-square"
+      url: http://feeds.feedburner.com/el-vertedero-cerebral
+    - label: "SUSCRIBETE!!"
+      icon: "fas fa-fw fa-envelope"
+      url: "https://feedburner.google.com/fb/a/mailverify?uri=el-vertedero-cerebral&amp;loc=es_ES>"
 
 footer:
   links:
@@ -99,12 +105,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/faricolors"
-    - label: "RSS"
-      icon: "fas fa-fw fa-rss-square"
-      url: http://feeds.feedburner.com/el-vertedero-cerebral
-    - label: "SUSCRIBETE!!"
-      icon: "fab fa-fw fa-envelope"
-      url: "https://feedburner.google.com/fb/a/mailverify?uri=el-vertedero-cerebral&amp;loc=es_ES>"
 
 defaults:
   # _posts
