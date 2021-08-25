@@ -33,6 +33,9 @@ comments:
 atom_feed:
   path: "http://feeds.feedburner.com/el-vertedero-cerebral"
 
+google_site_verification : "G-M8Q4B63CNC"
+#bing_site_verification   : 
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
