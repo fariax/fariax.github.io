@@ -14,9 +14,9 @@ timezone: America/Santiago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cristian Farias # the main title
+title: iO-Labs # the main title
 
-tagline: Transformo ideas en herramientas útiles. # it will display as the sub-title
+tagline: Tecnología aplicada, conocimiento compartido. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/cristian.jpeg
+avatar: /assets/img/cristian.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
