@@ -1,5 +1,6 @@
 ---
-title: "¿Que es la ciencia de datos?"
+title: ¿Que es la ciencia de datos?
+author: Cristian
 categories: [Datos]
 tags: [Notas, Datos]
 toc: true

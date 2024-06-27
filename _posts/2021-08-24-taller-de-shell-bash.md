@@ -1,6 +1,6 @@
 ---
 title: "Shell bash - Guía de iniciación"
-last_modified_at: 2021-08-26T21:15-04:00
+author: Cristian
 categories: [Talleres]
 tags: [Shell, Bash]
 toc: true

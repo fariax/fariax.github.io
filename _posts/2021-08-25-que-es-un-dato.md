@@ -1,6 +1,6 @@
 ---
 title: "¿Que es un dato?"
-last_modified_at: 2021-08-26T21:15-04:00
+author: Cristian
 categories: [Datos]
 tags: [Notas, Datos]
 toc: true
